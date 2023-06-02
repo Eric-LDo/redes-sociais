@@ -11,14 +11,14 @@ html, body{
 main{
     height: 100vh;
     position: relative;
-    background:url('imagens/fundo-madeira.jpg') no-repeat ;
+    background:url('../imagens/fundo-madeira.jpg') no-repeat ;
     background-attachment: local;
     background-size: cover;
 }
 section#telefone{
     height: 627px;
     width: 311px;
-    background:url('imagens/frame-iphone.png') no-repeat;
+    background:url('../imagens/frame-iphone.png') no-repeat;
     position: absolute;
     top: 50%;
     left: 50%;
